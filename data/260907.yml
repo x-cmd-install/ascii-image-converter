@@ -5,7 +5,7 @@ about:
   head: d05a757
   archived: false
   latestVersion: "v1.13.1"
-  collectedAt: 2026-09-07T05:30:16Z
+  collectedAt: 2026-09-07T19:07:09Z
 timeline:
   created: 2021-05-11
   lastCommit: 2022-11-23
@@ -79,7 +79,7 @@ total:
   commit: 149
 ---
 path: /home/runner/.x-repo/github.com/TheZoraiz/ascii-image-converter
-collectedAt: 2026-09-07T05:30:18Z
+collectedAt: 2026-09-07T19:07:11Z
 loc:
   Go:
     code: 1384
@@ -110,7 +110,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:30:19+00:00
+  collectedAt: 2026-09-07T19:07:11+00:00
   platform:
     darwin/arm64:
       name:  ascii-image-converter_macOS_arm64_64bit.tar.gz
