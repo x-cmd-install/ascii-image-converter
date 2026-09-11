@@ -36,7 +36,7 @@ Total: **1,411** lines of code across **20** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 3,520 · **Forks**: 191 · **Open issues**: 38 · **Contributors**: 7
+- **Stars**: 3,521 · **Forks**: 191 · **Open issues**: 38 · **Contributors**: 7
 
 ## Totals (cumulative)
 
@@ -86,4 +86,4 @@ Install metadata for ascii-image-converter lives in the [x-cmd/install](https://
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T05:38:53Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T19:18:23Z._
