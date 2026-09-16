@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 4153854,
       "digest": null,
-      "download_count": 16569,
+      "download_count": 16597,
       "created_at": "2022-11-23T08:15:39Z",
       "updated_at": "2022-11-23T08:15:50Z",
       "browser_download_url": "https://github.com/TheZoraiz/ascii-image-converter/releases/download/v1.13.1/ascii-image-converter_Linux_amd64_64bit.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 4098761,
       "digest": null,
-      "download_count": 10592,
+      "download_count": 10619,
       "created_at": "2022-11-23T08:16:00Z",
       "updated_at": "2022-11-23T08:16:03Z",
       "browser_download_url": "https://github.com/TheZoraiz/ascii-image-converter/releases/download/v1.13.1/ascii-image-converter_macOS_arm64_64bit.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 4227002,
       "digest": null,
-      "download_count": 9441,
+      "download_count": 9451,
       "created_at": "2022-11-23T08:16:03Z",
       "updated_at": "2022-11-23T08:16:09Z",
       "browser_download_url": "https://github.com/TheZoraiz/ascii-image-converter/releases/download/v1.13.1/ascii-image-converter_Windows_amd64_64bit.zip"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 4135886,
       "digest": null,
-      "download_count": 816,
+      "download_count": 817,
       "created_at": "2022-11-23T08:16:21Z",
       "updated_at": "2022-11-23T08:16:24Z",
       "browser_download_url": "https://github.com/TheZoraiz/ascii-image-converter/releases/download/v1.13.1/ascii-image-converter_Windows_i386_32bit.zip"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 1124,
       "digest": null,
-      "download_count": 230,
+      "download_count": 231,
       "created_at": "2022-11-23T08:16:25Z",
       "updated_at": "2022-11-23T08:16:25Z",
       "browser_download_url": "https://github.com/TheZoraiz/ascii-image-converter/releases/download/v1.13.1/sha256_checksums.txt"
